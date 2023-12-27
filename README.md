@@ -12,3 +12,4 @@
 ### 项目截图
 
 ##### 1.主页面
+![image](https://github.com/chudaxian300/bc-faucet-alpha/assets/81302819/15c31b52-f82d-4074-8de9-7fae62dc65df)
