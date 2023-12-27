@@ -1,0 +1,25 @@
+server:
+  address: :4003
+  model: debug
+
+db:
+  dialects: mysql
+  host: 127.0.0.1:3306
+  db: faucet
+  username: root
+  password: xjy2638468
+  charset: utf8
+  maxIdle: 0
+  maxOpen: 100
+
+myLog:
+  path: ./log
+  name: sys
+  model: file
+
+cache:
+  expire: 7200
+  clearUp: 600
+
+geth:
+  url: ws://127.0.0.1:8546
